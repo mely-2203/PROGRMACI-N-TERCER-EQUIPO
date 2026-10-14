@@ -8,7 +8,7 @@ public class CASETADECOBRO {
 
     public static void main(String[] args) {
 
-       rdtrdgrd
+   
         ArrayList<String> vehiculos = new ArrayList<String>();
 
         ImageIcon Logo = new ImageIcon("C:\\Users\\USUARIO\\Pictures\\vehiculos\\images.png");
